@@ -24,3 +24,6 @@ Find out why testing your Terraform code is important. Integrate testing into yo
 
 ### 07-ci-cd-workflows
 Set up GitHub Actions to automatically deploy multiple environments.
+
+### 08-terraform-gotchas
+A comprehensive list typical things to look out for and limitations with Terraform
