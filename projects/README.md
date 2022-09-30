@@ -2,4 +2,7 @@
 This section will contain subfolders of individual projects to show Terraform in use with deployable
 infrastructure and applications.
 
-### Basic Web Server
+### Basic Web Server with Application on EC2
+
+
+### Zero Downtime Infrastructure
