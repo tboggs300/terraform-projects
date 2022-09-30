@@ -1,6 +1,7 @@
 # terraform-projects
-This repository is a place to show examples of HashiCorp's Terraform in use.
+This repository is a place to show examples of HashiCorp's Terraform in use as well as help others learn.
 To use Terraform in your project, check out [their site](https://www.terraform.io/)
+
 
 # Deploying Infrastructure
 
@@ -15,6 +16,7 @@ This will re-run `terraform plan` and prepare for deploying of you infrastrucure
 command completes, you will be asked if you wish to proceed with deployment. This can be automated 
 by appending `--auto-approve` as a command line argument.
 
+
 # Testing
 
 ### `terraform fmt`
@@ -25,6 +27,7 @@ meets the standard.
 ### `terraform validate`
 
 ### Terratest
+
 
 # Modules
 For best practices, Terraform projects should be broken down into smaller modules that are then used
@@ -39,3 +42,19 @@ in services.
 ### Networking
 
 ### Storage
+
+
+# Recommended Resources
+
+### Books
+- [Terraform Up & Running: Writing Infrastructure as Code by Yevgeniy Brikman](https://www.terraformupandrunning.com/)
+- [Infrastructure as Code by Kief Morris](https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/)
+
+### Videos
+- [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
+
+### Documentation
+- [Intro to Terraform](https://www.terraform.io/intro)
+- Terraform's [Providers](https://registry.terraform.io/browse/providers) and [Modules](https://registry.terraform.io/browse/modules) Registry
+
+### Other Repositories

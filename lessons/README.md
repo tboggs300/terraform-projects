@@ -1,6 +1,11 @@
 This folder contains different lessons about working with Terraform. These lessons will
 be done with AWS but the ideas throughout are applicable to other cloud providers.
 
+These lessons are a cumulation from many videos and books. For futher reading, see the recommended resources
+list on the [root README file](https://github.com/tboggs300/terraform-projects/#recommended-resources).
+
+# Lessons List
+
 ### 01-terraform-basics
 Goes over the who, what, when, where, and how of Terraform. Learn how to
 get set up, basic terminology, and the typical commands that are run when working with Terraform.
