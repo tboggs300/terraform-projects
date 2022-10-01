@@ -30,12 +30,13 @@ meets the standard.
 
 # Recommended Resources
 
-### Books
+### Book Format
 - [Terraform Up & Running: Writing Infrastructure as Code by Yevgeniy Brikman](https://www.terraformupandrunning.com/)
 - [Infrastructure as Code by Kief Morris](https://www.oreilly.com/library/view/infrastructure-as-code/9781098114664/)
 
-### Videos
+### Video Format
 - [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
+- [This is GitOps](https://www.youtube.com/channel/UCLuouYY-axwxqD8CeCkEt_w/featured) YouTube channel 
 
 ### Documentation
 - [Intro to Terraform](https://www.terraform.io/intro)
