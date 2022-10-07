@@ -12,7 +12,7 @@ terraform {
 }
 
 module "asg" {
-  source = "../../cluster/asg-rolling-deploy"
+  source = "../../web-cluster/asg-rolling-deploy"
 
   cluster_name  = "hello-world-${var.environment}"
   ami           = var.ami
